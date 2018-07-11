@@ -47,6 +47,19 @@ body {
       left: 0;
       min-height: 300px; }
 
+.modal .modal-header {
+  background-color: #512DA8; }
+  .modal .modal-header .modal-tittle {
+    color: #fef9f1; }
+  .modal .modal-header .close {
+    color: #9575CD; }
+  .modal .modal-header .close:hover {
+    color: #fef9f1;
+    cursor: pointer; }
+
+.modal .modal-body {
+  background-color: #D1C4E9; }
+
 #carouselButton {
   right: 0px;
   position: absolute;
